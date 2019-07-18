@@ -1,0 +1,26 @@
+.content-wrapper, .main-footer, .main-header {
+    margin-left: 0px;
+}
+.news-feed{
+    padding-top: 67px;
+}
+.chatbox{
+    position: fixed;
+    bottom: 0px;
+    width: 300px;
+    right: 20px;
+    z-index: 9999999999;
+}
+.topic{
+    font-size: 30px;
+}
+.chat:hover
+{
+    background-color: #dee2ea;
+}
+.search-box
+{
+    background-color: white;
+    box-shadow: 0 0 1px rgba(0,0,0,.125), 0 1px 3px rgba(0,0,0,.2);
+
+}
